@@ -16,7 +16,7 @@ I'm an aspiring **Data Analyst** passionate about turning data into insights and
 - **Languages & Tools:** 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>](https://www.python.org/) Python, 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="25"/>](https://www.sqlite.org/) SQL, 
-  [<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="25" alt="Excel"/>](https://www.microsoft.com/excel) Excel, 
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg" width="25" alt="Excel"/>](https://www.microsoft.com/excel) Excel,  
   [<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="25" alt="Power BI"/>](https://powerbi.microsoft.com/), Power BI,
   [<img src="https://cdn.simpleicons.org/r/276DC3" width="25" alt="R"/>](https://www.r-project.org/) R,
 
